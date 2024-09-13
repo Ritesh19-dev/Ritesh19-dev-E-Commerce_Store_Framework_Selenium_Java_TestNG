@@ -1,0 +1,2283 @@
+[INFO ] 2024-09-10 20:24:08.846 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-10 20:24:10.240 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-10 20:24:12.303 [main]  store - Product number 6 selected
+[INFO ] 2024-09-10 20:24:12.304 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-10 20:24:12.660 [main]  store - Selected Size M
+[INFO ] 2024-09-10 21:06:36.471 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:06:43.901 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 21:06:43.995 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 21:06:44.094 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 21:06:45.373 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 21:06:48.422 [main]  store - Product 5 selected
+[INFO ] 2024-09-10 21:06:48.495 [main]  store - Green Colored option
+[INFO ] 2024-09-10 21:06:48.845 [main]  store - M Size got selected
+[INFO ] 2024-09-10 21:06:48.950 [main]  store - Added to cart
+[INFO ] 2024-09-10 21:06:50.531 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 21:06:51.536 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:06:52.464 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:06:53.071 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:06:53.798 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 21:06:59.644 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 21:06:59.648 [main]  store - browser Closed
+[INFO ] 2024-09-10 21:35:58.006 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:36:14.318 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-10 21:36:16.041 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 21:36:16.138 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 21:36:16.282 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 21:36:17.325 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 21:36:21.575 [main]  store - Product 1 selected
+[INFO ] 2024-09-10 21:36:21.699 [main]  store - White Colored option
+[INFO ] 2024-09-10 21:36:22.121 [main]  store - L Size got selected
+[INFO ] 2024-09-10 21:36:22.261 [main]  store - Added to cart
+[INFO ] 2024-09-10 21:36:24.561 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 21:36:25.667 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:36:26.227 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:36:27.068 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:36:28.100 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 21:36:34.696 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 21:36:34.720 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-10 21:36:36.358 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 21:36:36.383 [main]  store - browser Closed
+[INFO ] 2024-09-10 21:36:38.092 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:36:42.921 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-10 21:36:43.903 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 21:36:44.018 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 21:36:44.119 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 21:36:45.160 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 21:36:47.835 [main]  store - Product 4 selected
+[INFO ] 2024-09-10 21:36:47.886 [main]  store - Yellow Colored option
+[INFO ] 2024-09-10 21:36:48.163 [main]  store - M Size got selected
+[INFO ] 2024-09-10 21:36:49.611 [main]  store - Added to cart
+[INFO ] 2024-09-10 21:36:50.572 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 21:36:51.176 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:36:52.370 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:36:52.837 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 21:36:59.120 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 21:36:59.156 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-10 21:37:00.960 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 21:37:00.963 [main]  store - browser Closed
+[INFO ] 2024-09-10 21:37:02.815 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:37:08.467 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-10 21:37:09.481 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 21:37:09.609 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 21:37:09.727 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 21:37:10.818 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 21:37:13.852 [main]  store - Product 5 selected
+[INFO ] 2024-09-10 21:37:13.909 [main]  store - Green Colored option
+[INFO ] 2024-09-10 21:37:14.137 [main]  store - M Size got selected
+[INFO ] 2024-09-10 21:37:14.233 [main]  store - Added to cart
+[INFO ] 2024-09-10 21:37:15.905 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 21:37:16.997 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:18.011 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:19.015 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:19.572 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 21:37:26.024 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 21:37:26.047 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-10 21:37:27.364 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 21:37:27.366 [main]  store - browser Closed
+[INFO ] 2024-09-10 21:37:29.147 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:37:33.960 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-10 21:37:35.035 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 21:37:35.132 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 21:37:35.245 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 21:37:36.363 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 21:37:39.286 [main]  store - Product 6 selected
+[INFO ] 2024-09-10 21:37:39.286 [main]  store - Blue Colored option
+[INFO ] 2024-09-10 21:37:39.552 [main]  store - M Size got selected
+[INFO ] 2024-09-10 21:37:39.661 [main]  store - Added to cart
+[INFO ] 2024-09-10 21:37:40.960 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 21:37:41.943 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:43.160 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:44.047 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 21:37:44.634 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 21:37:50.964 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 21:37:50.986 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-10 21:37:52.285 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 21:37:52.287 [main]  store - browser Closed
+[INFO ] 2024-09-10 21:37:54.893 [main]  store - Browser Opened
+[INFO ] 2024-09-10 21:38:02.256 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-10 21:38:03.567 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-10 21:38:05.254 [main]  store - Product number 6 selected
+[INFO ] 2024-09-10 21:38:05.255 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-10 21:38:05.872 [main]  store - Selected Size M
+[INFO ] 2024-09-10 21:38:06.155 [main]  store - browser Closed
+[INFO ] 2024-09-10 22:33:33.972 [main]  store - Browser Opened
+[INFO ] 2024-09-10 22:33:40.923 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-10 22:33:41.954 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 22:33:42.072 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 22:33:42.187 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 22:33:43.358 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 22:33:46.942 [main]  store - Product 1 selected
+[INFO ] 2024-09-10 22:33:47.059 [main]  store - White Colored option
+[INFO ] 2024-09-10 22:33:47.431 [main]  store - L Size got selected
+[INFO ] 2024-09-10 22:33:47.566 [main]  store - Added to cart
+[INFO ] 2024-09-10 22:33:49.061 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 22:33:50.165 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:33:51.200 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:33:52.058 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:33:53.304 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 22:34:00.074 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 22:34:00.112 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-10 22:34:01.686 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 22:34:01.703 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-10 22:34:01.703 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-10 22:34:01.712 [main]  store - browser Closed
+[INFO ] 2024-09-10 22:34:03.161 [main]  store - Browser Opened
+[INFO ] 2024-09-10 22:34:08.617 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-10 22:34:09.621 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 22:34:09.745 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 22:34:09.841 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 22:34:11.102 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 22:34:14.259 [main]  store - Product 4 selected
+[INFO ] 2024-09-10 22:34:14.312 [main]  store - Yellow Colored option
+[INFO ] 2024-09-10 22:34:14.588 [main]  store - M Size got selected
+[INFO ] 2024-09-10 22:34:16.412 [main]  store - Added to cart
+[INFO ] 2024-09-10 22:34:17.543 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 22:34:18.185 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:34:19.009 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:34:19.789 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 22:34:26.478 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 22:34:26.502 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-10 22:34:27.912 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 22:34:27.940 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-10 22:34:27.940 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-10 22:34:27.940 [main]  store - browser Closed
+[INFO ] 2024-09-10 22:34:29.038 [main]  store - Browser Opened
+[INFO ] 2024-09-10 22:34:34.380 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-10 22:34:35.363 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 22:34:35.462 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 22:34:35.588 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 22:34:36.862 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 22:34:40.028 [main]  store - Product 5 selected
+[INFO ] 2024-09-10 22:34:40.085 [main]  store - Green Colored option
+[INFO ] 2024-09-10 22:34:40.360 [main]  store - M Size got selected
+[INFO ] 2024-09-10 22:34:40.493 [main]  store - Added to cart
+[INFO ] 2024-09-10 22:34:41.864 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 22:34:42.810 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:34:43.384 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:34:44.609 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:34:45.203 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 22:34:51.490 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 22:34:51.521 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-10 22:34:53.466 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 22:34:53.482 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-10 22:34:53.482 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-10 22:34:53.483 [main]  store - browser Closed
+[INFO ] 2024-09-10 22:34:55.224 [main]  store - Browser Opened
+[INFO ] 2024-09-10 22:35:01.162 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-10 22:35:02.247 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-10 22:35:02.371 [main]  store - UserEmail Entered
+[INFO ] 2024-09-10 22:35:02.495 [main]  store - UserPassword Entered
+[INFO ] 2024-09-10 22:35:03.732 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-10 22:35:06.665 [main]  store - Product 6 selected
+[INFO ] 2024-09-10 22:35:06.665 [main]  store - Blue Colored option
+[INFO ] 2024-09-10 22:35:06.919 [main]  store - M Size got selected
+[INFO ] 2024-09-10 22:35:07.052 [main]  store - Added to cart
+[INFO ] 2024-09-10 22:35:08.453 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-10 22:35:09.442 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:35:10.024 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:35:11.275 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-10 22:35:11.890 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-10 22:35:18.201 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-10 22:35:18.232 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-10 22:35:19.564 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-10 22:35:19.581 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-10 22:35:19.581 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-10 22:35:19.582 [main]  store - browser Closed
+[INFO ] 2024-09-10 22:35:20.521 [main]  store - Browser Opened
+[INFO ] 2024-09-10 22:35:25.375 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-10 22:35:27.781 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-10 22:35:28.931 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-10 22:35:30.452 [main]  store - Product number 6 selected
+[INFO ] 2024-09-10 22:35:30.453 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-10 22:35:30.720 [main]  store - Selected Size M
+[INFO ] 2024-09-10 22:35:31.081 [main]  store - browser Closed
+[INFO ] 2024-09-10 23:46:10.065 [main]  store - Browser Opened
+[INFO ] 2024-09-10 23:46:11.029 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-10 23:46:11.084 [main]  store - browser Closed
+[INFO ] 2024-09-10 23:46:11.902 [main]  store - Browser Opened
+[INFO ] 2024-09-10 23:46:12.717 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-10 23:46:12.724 [main]  store - browser Closed
+[INFO ] 2024-09-10 23:46:13.580 [main]  store - Browser Opened
+[INFO ] 2024-09-10 23:46:14.125 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-10 23:46:14.131 [main]  store - browser Closed
+[INFO ] 2024-09-10 23:46:14.977 [main]  store - Browser Opened
+[INFO ] 2024-09-10 23:46:15.571 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-10 23:46:15.576 [main]  store - browser Closed
+[INFO ] 2024-09-10 23:46:16.556 [main]  store - Browser Opened
+[INFO ] 2024-09-10 23:46:17.087 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-10 23:46:17.092 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:00:36.862 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:00:43.047 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-11 00:00:44.340 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:00:44.456 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:00:44.556 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:00:45.933 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:00:48.854 [main]  store - Product 1 selected
+[INFO ] 2024-09-11 00:00:48.978 [main]  store - White Colored option
+[INFO ] 2024-09-11 00:00:49.399 [main]  store - L Size got selected
+[INFO ] 2024-09-11 00:00:49.557 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:00:51.102 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:00:52.153 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:00:53.115 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:00:54.047 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:00:55.042 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:01:01.931 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:01:01.960 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-11 00:01:03.736 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:01:03.768 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:01:03.769 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-11 00:01:03.785 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:01:05.551 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:01:10.913 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-11 00:01:12.119 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:01:12.240 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:01:12.337 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:01:13.532 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:01:16.260 [main]  store - Product 4 selected
+[INFO ] 2024-09-11 00:01:16.321 [main]  store - Yellow Colored option
+[INFO ] 2024-09-11 00:01:16.568 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:01:18.138 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:01:19.150 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:01:20.483 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:01:21.426 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:01:21.961 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:01:28.368 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:01:28.401 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-11 00:01:29.989 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:01:30.012 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:01:30.012 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-11 00:01:30.015 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:01:31.645 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:01:37.911 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-11 00:01:38.996 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:01:39.094 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:01:39.211 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:01:40.640 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:01:43.640 [main]  store - Product 5 selected
+[INFO ] 2024-09-11 00:01:43.713 [main]  store - Green Colored option
+[INFO ] 2024-09-11 00:01:43.995 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:01:44.131 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:01:45.647 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:01:46.737 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:01:47.301 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:01:48.557 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:01:49.148 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:01:55.429 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:01:55.459 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-11 00:01:57.117 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:01:57.133 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:01:57.133 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-11 00:01:57.134 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:01:57.998 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:02:03.880 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-11 00:02:05.046 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:02:05.141 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:02:05.243 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:02:06.364 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:02:09.247 [main]  store - Product 6 selected
+[INFO ] 2024-09-11 00:02:09.247 [main]  store - Blue Colored option
+[INFO ] 2024-09-11 00:02:09.541 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:02:09.650 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:02:11.071 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:02:12.077 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:02:13.270 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:02:14.377 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:02:15.047 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:02:22.033 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:02:22.058 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-11 00:02:23.376 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:02:23.394 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:02:23.395 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-11 00:02:23.398 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:02:24.888 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:02:29.743 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 00:02:32.298 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-11 00:02:33.583 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-11 00:02:35.322 [main]  store - Product number 6 selected
+[INFO ] 2024-09-11 00:02:35.323 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-11 00:02:35.613 [main]  store - Selected Size M
+[INFO ] 2024-09-11 00:02:35.969 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:03:57.703 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:04:03.780 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-11 00:04:04.822 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:04:04.928 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:04:05.042 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:04:06.275 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:04:09.360 [main]  store - Product 1 selected
+[INFO ] 2024-09-11 00:04:09.453 [main]  store - White Colored option
+[INFO ] 2024-09-11 00:04:10.008 [main]  store - L Size got selected
+[INFO ] 2024-09-11 00:04:10.252 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:04:11.951 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:04:13.197 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:04:14.231 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:04:15.343 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:04:15.919 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:04:22.400 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:04:22.429 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-11 00:04:23.961 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:04:23.983 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:04:23.984 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-11 00:04:23.999 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:04:24.956 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:04:30.100 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-11 00:04:31.202 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:04:31.299 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:04:31.404 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:04:32.663 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:04:35.485 [main]  store - Product 4 selected
+[INFO ] 2024-09-11 00:04:35.552 [main]  store - Yellow Colored option
+[INFO ] 2024-09-11 00:04:35.796 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:04:37.308 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:04:38.476 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:04:39.509 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:04:40.605 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:04:41.378 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:04:47.771 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:04:47.794 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-11 00:04:49.131 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:04:49.154 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:04:49.154 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-11 00:04:49.155 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:04:50.082 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:04:55.159 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-11 00:04:56.262 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:04:56.362 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:04:56.473 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:04:57.625 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:05:00.927 [main]  store - Product 5 selected
+[INFO ] 2024-09-11 00:05:00.978 [main]  store - Green Colored option
+[INFO ] 2024-09-11 00:05:01.268 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:05:01.404 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:05:02.793 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:05:04.068 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:05.049 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:05.953 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:06.566 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:05:12.771 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:05:12.806 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-11 00:05:14.445 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:05:14.460 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:05:14.460 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-11 00:05:14.460 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:05:15.449 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:05:21.071 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-11 00:05:22.582 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 00:05:22.690 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 00:05:22.798 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 00:05:23.840 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 00:05:26.878 [main]  store - Product 6 selected
+[INFO ] 2024-09-11 00:05:26.879 [main]  store - Blue Colored option
+[INFO ] 2024-09-11 00:05:27.125 [main]  store - M Size got selected
+[INFO ] 2024-09-11 00:05:27.232 [main]  store - Added to cart
+[INFO ] 2024-09-11 00:05:28.724 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 00:05:29.843 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:30.872 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:31.489 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 00:05:32.313 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 00:05:38.652 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 00:05:38.691 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-11 00:05:40.234 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 00:05:40.250 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 00:05:40.251 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-11 00:05:40.251 [main]  store - browser Closed
+[INFO ] 2024-09-11 00:05:42.018 [main]  store - Browser Opened
+[INFO ] 2024-09-11 00:05:47.559 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 00:05:49.950 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-11 00:05:51.113 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-11 00:05:52.606 [main]  store - Product number 6 selected
+[INFO ] 2024-09-11 00:05:52.607 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-11 00:05:52.925 [main]  store - Selected Size M
+[INFO ] 2024-09-11 00:05:53.315 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:02:41.818 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:02:48.032 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:02:48.146 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:02:48.864 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:03:10.029 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:03:10.865 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:03:15.236 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-11 01:03:15.254 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:03:16.030 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:03:16.795 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-11 01:03:16.801 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:03:17.695 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:03:18.250 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-11 01:03:18.256 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:03:19.151 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:03:19.771 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-11 01:03:19.777 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:03:20.662 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:03:21.231 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 01:03:21.240 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:07:16.953 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:07:22.946 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:07:23.050 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:07:23.601 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:07:43.688 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:08:03.812 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:08:11.134 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:08:11.299 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:08:11.858 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:08:31.913 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:09:19.446 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:09:26.818 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:09:26.981 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:09:27.762 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:09:47.803 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:11:03.485 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:11:09.208 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:11:09.318 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:11:10.587 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:11:30.664 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:12:51.897 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:12:58.976 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 01:13:01.823 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-11 01:13:03.637 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-11 01:13:05.676 [main]  store - Product number 6 selected
+[INFO ] 2024-09-11 01:13:05.677 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-11 01:13:06.045 [main]  store - Selected Size M
+[INFO ] 2024-09-11 01:13:06.402 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:15:05.253 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:15:11.573 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:15:11.725 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:15:12.422 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:15:32.457 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:17:30.852 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:17:36.931 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:17:37.027 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:17:37.619 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:17:37.648 [main]  store - Successfully Subscribed to NewLetter
+[INFO ] 2024-09-11 01:17:37.649 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER ENDS*********************
+[INFO ] 2024-09-11 01:17:37.656 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:18:22.910 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:18:31.444 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:18:31.615 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:18:32.337 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:18:52.397 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:25:16.599 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:25:25.370 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:25:25.536 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:25:26.186 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:25:46.240 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:27:23.395 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:27:25.199 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:27:29.968 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:27:31.013 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:27:51.115 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:30:40.958 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:30:47.106 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:30:47.202 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:30:47.814 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:31:07.906 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:34:29.634 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:34:36.548 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:34:36.735 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:34:37.308 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:34:57.413 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:37:04.919 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:37:10.950 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:37:11.071 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:37:11.600 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:37:31.688 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:38:57.612 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:39:02.844 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 01:39:05.372 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-11 01:39:06.658 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-11 01:39:08.175 [main]  store - Product number 6 selected
+[INFO ] 2024-09-11 01:39:08.178 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-11 01:39:08.558 [main]  store - Selected Size M
+[INFO ] 2024-09-11 01:39:08.693 [main]  store - entered else part
+[INFO ] 2024-09-11 01:39:08.901 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:43:41.871 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:43:49.226 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:43:49.239 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:44:55.419 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:45:00.591 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 01:45:00.724 [main]  store - Entered the email address
+[INFO ] 2024-09-11 01:45:01.300 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 01:45:21.336 [main]  store - browser Closed
+[INFO ] 2024-09-11 01:47:27.061 [main]  store - Browser Opened
+[INFO ] 2024-09-11 01:47:32.556 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-11 01:47:33.691 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 01:47:33.785 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 01:47:33.900 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 01:47:35.453 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 01:47:38.459 [main]  store - Product 1 selected
+[INFO ] 2024-09-11 01:47:38.556 [main]  store - White Colored option
+[INFO ] 2024-09-11 01:47:38.944 [main]  store - L Size got selected
+[INFO ] 2024-09-11 01:47:39.099 [main]  store - Added to cart
+[INFO ] 2024-09-11 01:47:41.441 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 01:47:42.708 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 01:47:43.750 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 01:47:44.846 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 01:47:45.497 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 01:47:52.070 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 01:47:52.098 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-11 01:47:53.673 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 01:47:53.696 [main]  store - Logged Out Failed
+[INFO ] 2024-09-11 01:47:53.887 [main]  store - browser Closed
+[INFO ] 2024-09-11 14:28:55.109 [main]  store - Browser Opened
+[INFO ] 2024-09-11 14:29:07.541 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-11 14:29:11.280 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 14:29:11.356 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 14:29:11.489 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 14:29:13.023 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 14:29:33.135 [main]  store - browser Closed
+[INFO ] 2024-09-11 14:32:18.607 [main]  store - Browser Opened
+[INFO ] 2024-09-11 14:32:34.000 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-11 14:32:47.847 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-11 14:32:51.107 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-11 14:32:57.108 [main]  store - Product number 6 selected
+[INFO ] 2024-09-11 14:32:57.112 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-11 14:32:58.797 [main]  store - Selected Size M
+[INFO ] 2024-09-11 14:32:58.962 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-11 14:32:59.290 [main]  store - browser Closed
+[INFO ] 2024-09-11 14:34:06.912 [main]  store - Browser Opened
+[INFO ] 2024-09-11 14:34:23.380 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 14:34:23.543 [main]  store - Entered the email address
+[INFO ] 2024-09-11 14:34:26.542 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 14:34:46.698 [main]  store - browser Closed
+[INFO ] 2024-09-11 14:36:39.651 [main]  store - Browser Opened
+[INFO ] 2024-09-11 14:36:42.816 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-11 14:36:53.099 [main]  store - Entered the email address
+[INFO ] 2024-09-11 14:36:54.479 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-11 14:37:14.706 [main]  store - browser Closed
+[INFO ] 2024-09-11 15:31:32.821 [main]  store - Browser Opened
+[INFO ] 2024-09-11 15:31:36.027 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-11 15:31:44.879 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-11 15:32:04.927 [main]  store - browser Closed
+[INFO ] 2024-09-11 17:15:15.549 [main]  store - Browser Opened
+[INFO ] 2024-09-11 17:15:20.424 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-11 17:15:22.030 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-11 17:15:22.876 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-11 17:15:24.386 [main]  store - Product 6 selected
+[INFO ] 2024-09-11 17:15:24.388 [main]  store - Blue Colored option
+[INFO ] 2024-09-11 17:15:24.727 [main]  store - M Size got selected
+[INFO ] 2024-09-11 17:15:24.831 [main]  store - Added to cart
+[INFO ] 2024-09-11 17:15:26.378 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-11 17:15:27.937 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 17:15:28.042 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 17:15:28.197 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 17:15:30.127 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 17:15:30.742 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 17:15:32.694 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-11 17:15:50.525 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-11 17:15:58.000 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-11 17:15:58.052 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-11 17:15:59.699 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-11 17:15:59.770 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-11 17:15:59.770 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-11 17:15:59.776 [main]  store - browser Closed
+[INFO ] 2024-09-11 17:46:58.240 [main]  store - Browser Opened
+[INFO ] 2024-09-11 17:47:04.590 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-11 17:47:05.687 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 17:47:05.793 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 17:47:05.898 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 17:47:07.099 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 17:47:10.152 [main]  store - Product 6 selected
+[INFO ] 2024-09-11 17:47:10.253 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-11 17:47:10.362 [main]  store - Friend Name provided
+[INFO ] 2024-09-11 17:47:10.459 [main]  store - Friend Email Provided
+[INFO ] 2024-09-11 17:47:10.504 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-11 17:47:16.330 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-11 17:47:16.333 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-11 17:47:16.340 [main]  store - browser Closed
+[INFO ] 2024-09-11 23:20:24.402 [main]  store - Browser Opened
+[INFO ] 2024-09-11 23:20:33.233 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-11 23:20:35.054 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-11 23:20:35.341 [main]  store - UserEmail Entered
+[INFO ] 2024-09-11 23:20:35.524 [main]  store - UserPassword Entered
+[INFO ] 2024-09-11 23:20:36.779 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-11 23:20:39.546 [main]  store - Product 6 selected
+[INFO ] 2024-09-11 23:20:39.663 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-11 23:20:39.788 [main]  store - Friend Name provided
+[INFO ] 2024-09-11 23:20:39.901 [main]  store - Friend Email Provided
+[INFO ] 2024-09-11 23:20:39.959 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-11 23:20:45.677 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-11 23:20:45.678 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-11 23:20:45.685 [main]  store - browser Closed
+[INFO ] 2024-09-12 13:33:31.394 [main]  store - Browser Opened
+[INFO ] 2024-09-12 13:33:42.525 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 13:33:43.612 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 13:33:43.664 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 13:33:43.743 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 13:33:44.895 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 13:33:47.631 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 13:33:47.890 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 13:33:47.943 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 13:33:47.985 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 13:33:48.234 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 13:33:52.953 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 13:33:52.960 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 13:33:52.973 [main]  store - browser Closed
+[INFO ] 2024-09-12 13:34:28.660 [main]  store - Browser Opened
+[INFO ] 2024-09-12 13:34:33.202 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 13:34:34.343 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 13:34:34.407 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 13:34:34.461 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 13:34:35.474 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 13:34:38.239 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 13:34:38.496 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 13:34:38.536 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 13:34:38.584 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 13:34:38.825 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 13:34:44.480 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 13:34:44.483 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 13:34:44.489 [main]  store - browser Closed
+[INFO ] 2024-09-12 13:42:25.983 [main]  store - Browser Opened
+[INFO ] 2024-09-12 13:42:31.217 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 13:42:32.576 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 13:42:32.634 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 13:42:32.705 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 13:42:33.865 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 13:42:37.140 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 13:42:37.410 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 13:42:37.454 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 13:42:37.494 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 13:42:37.735 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 13:42:43.658 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 13:42:43.664 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 13:42:43.673 [main]  store - browser Closed
+[INFO ] 2024-09-12 13:43:42.339 [main]  store - Browser Opened
+[INFO ] 2024-09-12 13:43:47.190 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 13:43:48.457 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 13:43:48.511 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 13:43:48.590 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 13:43:49.684 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 13:43:53.117 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 13:43:53.385 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 13:43:53.434 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 13:43:53.470 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 13:43:53.718 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 13:43:59.439 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 13:43:59.444 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 13:43:59.454 [main]  store - browser Closed
+[INFO ] 2024-09-12 13:49:31.447 [main]  store - Browser Opened
+[INFO ] 2024-09-12 13:49:40.196 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 13:49:41.608 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 13:49:41.868 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 13:49:41.980 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 13:49:43.380 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 13:49:47.006 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 13:49:47.079 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 13:49:47.158 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 13:49:47.241 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 13:49:47.293 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 13:49:53.288 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 13:49:53.291 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 13:49:53.297 [main]  store - browser Closed
+[INFO ] 2024-09-12 16:13:08.879 [main]  store - Browser Opened
+[INFO ] 2024-09-12 16:13:32.134 [main]  store - browser Closed
+[INFO ] 2024-09-12 16:16:43.385 [main]  store - Browser Opened
+[INFO ] 2024-09-12 16:17:02.703 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:11:13.801 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:11:24.063 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:11:26.722 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:11:26.836 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:11:26.947 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:11:30.045 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:11:30.077 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:11:31.884 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:11:31.884 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:11:31.887 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:11:33.333 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:11:33.445 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:11:33.548 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:11:37.305 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:11:37.343 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:11:40.639 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:11:40.639 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:11:40.642 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:12:43.915 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:12:52.298 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:12:52.449 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-12 17:12:52.505 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-12 17:13:03.724 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:13:04.337 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:13:06.061 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:13:10.572 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:13:10.672 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:13:10.754 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:13:11.830 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:13:11.859 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:13:13.024 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:13:13.024 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:13:13.030 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:13:13.843 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:13:13.933 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:13:14.037 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:13:14.880 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:13:14.919 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:13:15.985 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:13:15.985 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:13:15.988 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:13:16.818 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:13:21.957 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-12 17:13:23.636 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-12 17:13:24.523 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-12 17:13:26.339 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:13:26.340 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:13:26.571 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:13:26.731 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:13:28.223 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:13:29.577 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:13:29.736 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:13:29.842 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:13:31.542 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:13:32.527 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:13:33.647 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:13:34.393 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:13:40.876 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:13:40.906 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-12 17:13:42.334 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:13:42.355 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:13:42.355 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-12 17:13:42.356 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:13:43.179 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:13:48.180 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-12 17:13:48.290 [main]  store - Entered the email address
+[INFO ] 2024-09-12 17:13:48.818 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-12 17:14:08.867 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:14:09.653 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:14:14.954 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-12 17:14:16.239 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:14:16.338 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:14:16.429 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:14:17.535 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:14:19.447 [main]  store - Product 1 selected
+[INFO ] 2024-09-12 17:14:20.264 [main]  store - White Colored option
+[INFO ] 2024-09-12 17:14:20.605 [main]  store - L Size got selected
+[INFO ] 2024-09-12 17:14:20.747 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:14:22.288 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:14:23.390 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:14:24.560 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:14:26.438 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:14:27.275 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:14:33.967 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:14:33.994 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-12 17:14:35.378 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:14:35.405 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:14:35.405 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-12 17:14:35.407 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:14:36.854 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:14:38.703 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-12 17:14:43.471 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:14:43.561 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:14:43.664 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:14:44.862 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:14:47.548 [main]  store - Product 4 selected
+[INFO ] 2024-09-12 17:14:47.593 [main]  store - Yellow Colored option
+[INFO ] 2024-09-12 17:14:47.901 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:14:49.325 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:14:50.314 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:14:50.964 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:14:52.151 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:14:52.703 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:14:59.246 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:14:59.277 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-12 17:15:00.974 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:15:00.999 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:15:00.999 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-12 17:15:01.001 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:15:02.385 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:15:10.651 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-12 17:15:11.736 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:15:11.851 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:15:11.949 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:15:13.225 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:15:16.806 [main]  store - Product 5 selected
+[INFO ] 2024-09-12 17:15:16.871 [main]  store - Green Colored option
+[INFO ] 2024-09-12 17:15:17.175 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:15:17.309 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:15:18.856 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:15:19.879 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:20.403 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:21.238 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:22.039 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:15:28.859 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:15:28.884 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-12 17:15:30.503 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:15:30.544 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:15:30.544 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-12 17:15:30.547 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:15:32.098 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:15:37.775 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-12 17:15:38.864 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:15:38.957 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:15:39.081 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:15:40.146 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:15:42.901 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:15:42.902 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:15:43.138 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:15:43.246 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:15:44.570 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:15:45.810 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:46.834 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:47.762 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:15:48.481 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:15:55.984 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:15:56.018 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-12 17:15:57.637 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:15:57.658 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:15:57.658 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-12 17:15:57.660 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:15:58.458 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:16:05.274 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-12 17:16:08.764 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-12 17:16:10.555 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-12 17:16:12.778 [main]  store - Product number 6 selected
+[INFO ] 2024-09-12 17:16:12.778 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-12 17:16:13.036 [main]  store - Selected Size M
+[INFO ] 2024-09-12 17:16:13.209 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-12 17:16:13.481 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:16:14.224 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:16:19.055 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:16:20.031 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:16:20.130 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:16:20.228 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:16:21.243 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:16:23.940 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:16:24.020 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:16:24.103 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:16:24.186 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:16:24.227 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:16:29.005 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:16:29.006 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:16:29.008 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:21:07.398 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:21:14.107 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:21:14.223 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-12 17:21:14.271 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-12 17:21:37.794 [main]  store - Clicked on Log in Button
+[INFO ] 2024-09-12 17:21:57.929 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:21:58.800 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:22:05.425 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:22:06.618 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:22:06.727 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:22:06.834 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:22:08.097 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:22:08.128 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:22:09.803 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:22:09.803 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:22:09.807 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:22:10.766 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:22:10.853 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:22:10.962 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:22:11.986 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:22:12.018 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:22:13.274 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:22:13.274 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:22:13.276 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:22:14.125 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:22:19.867 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-12 17:22:21.536 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-12 17:22:22.484 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-12 17:22:24.008 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:22:24.009 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:22:24.304 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:22:24.401 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:22:25.936 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:22:27.394 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:22:27.529 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:22:27.662 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:22:29.404 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:22:30.437 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:22:31.562 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:22:32.300 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:22:38.879 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:22:38.915 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-12 17:22:40.528 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:22:40.556 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:22:40.556 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-12 17:22:40.556 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:22:41.846 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:22:46.977 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-12 17:22:47.086 [main]  store - Entered the email address
+[INFO ] 2024-09-12 17:22:47.782 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-12 17:23:06.818 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:23:07.374 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:23:14.762 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-12 17:23:15.945 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:23:16.049 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:23:16.154 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:23:17.248 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:23:20.658 [main]  store - Product 1 selected
+[INFO ] 2024-09-12 17:23:20.775 [main]  store - White Colored option
+[INFO ] 2024-09-12 17:23:21.113 [main]  store - L Size got selected
+[INFO ] 2024-09-12 17:23:21.247 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:23:23.767 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:23:25.824 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:23:27.412 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:23:28.681 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:23:29.646 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:23:35.372 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:23:35.394 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-12 17:23:36.939 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:23:36.962 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:23:36.962 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-12 17:23:36.963 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:23:37.689 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:23:44.401 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-12 17:23:46.108 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:23:46.302 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:23:46.401 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:23:48.712 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:23:54.368 [main]  store - Product 4 selected
+[INFO ] 2024-09-12 17:23:54.426 [main]  store - Yellow Colored option
+[INFO ] 2024-09-12 17:23:54.731 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:23:57.866 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:23:59.736 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:24:01.398 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:24:02.899 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:24:03.777 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:24:11.269 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:24:11.294 [main]  store - *****buyProduct_2 Passed*****
+[INFO ] 2024-09-12 17:24:17.385 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:24:17.422 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:24:17.422 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-12 17:24:17.425 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:24:18.181 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:24:28.551 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-12 17:24:30.793 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:24:30.884 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:24:30.985 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:24:33.543 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:24:38.356 [main]  store - Product 5 selected
+[INFO ] 2024-09-12 17:24:38.424 [main]  store - Green Colored option
+[INFO ] 2024-09-12 17:24:38.665 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:24:38.766 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:24:40.755 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:24:42.284 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:24:43.543 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:24:44.754 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:24:45.534 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:24:51.042 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:24:51.071 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-12 17:24:52.952 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:24:52.982 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:24:52.983 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-12 17:24:52.983 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:24:53.774 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:24:59.121 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-12 17:25:00.238 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:25:00.339 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:25:00.421 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:25:01.728 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:25:05.196 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:25:05.196 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:25:05.449 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:25:05.546 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:25:07.426 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:25:08.826 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:25:10.004 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:25:11.299 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:25:12.211 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:25:18.990 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:25:19.012 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-12 17:25:20.617 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:25:20.647 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:25:20.647 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-12 17:25:20.649 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:25:21.923 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:25:27.264 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-12 17:25:30.034 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-12 17:25:31.366 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-12 17:25:33.078 [main]  store - Product number 6 selected
+[INFO ] 2024-09-12 17:25:33.079 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-12 17:25:33.492 [main]  store - Selected Size M
+[INFO ] 2024-09-12 17:25:33.612 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-12 17:25:33.840 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:25:34.586 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:25:36.080 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:25:41.663 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:25:41.757 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:25:41.862 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:25:43.769 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:25:47.429 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:25:47.532 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:25:47.624 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:25:47.716 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:25:47.762 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:25:53.913 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:25:53.915 [main]  store - 
+********************TEST CASE REFER PRODUCT TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:25:53.921 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:31:09.096 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:31:21.184 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:31:24.861 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:31:24.972 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:31:25.073 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:31:27.884 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:31:34.762 [main]  store - Product 1 selected
+[INFO ] 2024-09-12 17:31:34.834 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:31:34.893 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:31:34.961 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:31:35.013 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:31:40.966 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:31:40.968 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:31:40.975 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:41:21.683 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:41:27.678 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:41:29.478 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:41:29.598 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:41:29.683 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:41:31.768 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:41:36.342 [main]  store - Product 4 selected
+[INFO ] 2024-09-12 17:41:36.472 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:41:36.541 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:41:36.606 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:41:36.659 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:41:43.535 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:41:43.536 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:41:43.540 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:44:25.244 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:44:31.279 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:44:32.268 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:44:32.390 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:44:32.488 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:44:33.877 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:44:36.572 [main]  store - Product 5 selected
+[INFO ] 2024-09-12 17:44:36.650 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:44:36.729 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:44:36.814 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:44:36.863 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:44:42.686 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:44:42.687 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:44:42.692 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:45:30.951 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:45:39.905 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:45:40.025 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-12 17:45:40.073 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-12 17:46:04.794 [main]  store - Clicked on Log in Button
+[INFO ] 2024-09-12 17:46:24.883 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:46:25.706 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:46:38.864 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:46:41.897 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:46:41.996 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:46:42.093 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:46:45.715 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:46:45.787 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:46:48.905 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:46:48.905 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:46:48.913 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-12 17:46:50.828 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:46:50.927 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:46:51.016 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:46:53.046 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:46:53.077 [main]  store - User Name matched
+[INFO ] 2024-09-12 17:46:55.607 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:46:55.607 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-12 17:46:55.609 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:46:56.428 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:47:03.285 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-12 17:47:07.187 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-12 17:47:08.704 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-12 17:47:10.953 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:47:10.953 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:47:11.223 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:47:11.312 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:47:14.317 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:47:17.164 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:47:17.257 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:47:17.356 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:47:19.098 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:47:20.579 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:47:21.834 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:47:22.833 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:47:30.760 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:47:30.785 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-12 17:47:35.974 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:47:35.999 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:47:35.999 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-12 17:47:36.000 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:47:36.669 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:47:39.823 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-12 17:47:59.901 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:48:01.534 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:48:10.186 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-12 17:48:12.773 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:48:12.867 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:48:12.971 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:48:16.593 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:48:21.115 [main]  store - Product 1 selected
+[INFO ] 2024-09-12 17:48:21.219 [main]  store - White Colored option
+[INFO ] 2024-09-12 17:48:21.514 [main]  store - L Size got selected
+[INFO ] 2024-09-12 17:48:21.661 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:48:24.219 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:48:25.640 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:48:27.465 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:48:29.685 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:48:30.833 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:48:38.303 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:48:38.326 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-12 17:48:42.080 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:48:42.100 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:48:42.100 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-12 17:48:42.102 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:48:42.861 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:48:44.399 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-12 17:48:52.754 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:48:52.846 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:48:52.950 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:48:54.337 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:49:00.517 [main]  store - Product 4 selected
+[INFO ] 2024-09-12 17:49:00.571 [main]  store - Yellow Colored option
+[INFO ] 2024-09-12 17:49:00.784 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:49:05.677 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:49:08.546 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:49:11.614 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:49:15.063 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:49:15.987 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:49:25.682 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:49:25.707 [main]  store - *****TC_BuyProduct_2 Passed*****
+[INFO ] 2024-09-12 17:49:31.758 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:49:31.772 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:49:31.772 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-12 17:49:31.773 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:49:33.191 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:49:42.479 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-12 17:49:43.900 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:49:44.004 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:49:44.137 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:49:46.029 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:49:50.584 [main]  store - Product 5 selected
+[INFO ] 2024-09-12 17:49:50.673 [main]  store - Green Colored option
+[INFO ] 2024-09-12 17:49:50.901 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:49:50.999 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:49:54.262 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:49:56.293 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:49:57.730 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:49:59.763 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:50:00.995 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:50:07.896 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:50:07.944 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-12 17:50:14.736 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:50:14.776 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:50:14.776 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-12 17:50:14.778 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:50:15.527 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:50:18.245 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-12 17:50:28.554 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:50:28.647 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:50:28.749 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:50:30.294 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:50:34.368 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:50:34.369 [main]  store - Blue Colored option
+[INFO ] 2024-09-12 17:50:34.626 [main]  store - M Size got selected
+[INFO ] 2024-09-12 17:50:34.714 [main]  store - Added to cart
+[INFO ] 2024-09-12 17:50:36.941 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-12 17:50:38.229 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:50:39.702 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:50:40.843 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-12 17:50:41.748 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-12 17:50:48.840 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-12 17:50:48.864 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-12 17:50:50.923 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-12 17:50:50.948 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-12 17:50:50.948 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-12 17:50:50.949 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:50:51.706 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:51:02.315 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-12 17:51:05.210 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-12 17:51:07.103 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-12 17:51:08.816 [main]  store - Product number 6 selected
+[INFO ] 2024-09-12 17:51:08.816 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-12 17:51:09.050 [main]  store - Selected Size M
+[INFO ] 2024-09-12 17:51:09.133 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-12 17:51:09.258 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:51:10.033 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:51:17.437 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:51:18.626 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:51:18.722 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:51:18.825 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:51:20.087 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:51:23.009 [main]  store - Product 1 selected
+[INFO ] 2024-09-12 17:51:23.118 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:51:23.196 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:51:23.264 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:51:23.320 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:51:29.330 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:51:29.331 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:51:29.331 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:51:30.098 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:51:36.614 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:51:37.646 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:51:37.766 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:51:37.870 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:51:39.101 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:51:42.339 [main]  store - Product 4 selected
+[INFO ] 2024-09-12 17:51:42.513 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:51:42.586 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:51:42.653 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:51:42.732 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:51:48.814 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:51:48.815 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:51:48.815 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:51:49.523 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:51:55.426 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:51:56.554 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:51:56.653 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:51:56.738 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:51:58.124 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:52:01.630 [main]  store - Product 5 selected
+[INFO ] 2024-09-12 17:52:01.695 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:52:01.797 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:52:01.881 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:52:01.931 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:52:08.927 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:52:08.927 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:52:08.929 [main]  store - browser Closed
+[INFO ] 2024-09-12 17:52:09.681 [main]  store - Browser Opened
+[INFO ] 2024-09-12 17:52:15.960 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND STARTED*********************
+[INFO ] 2024-09-12 17:52:17.022 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-12 17:52:17.116 [main]  store - UserEmail Entered
+[INFO ] 2024-09-12 17:52:17.223 [main]  store - UserPassword Entered
+[INFO ] 2024-09-12 17:52:18.456 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-12 17:52:21.562 [main]  store - Product 6 selected
+[INFO ] 2024-09-12 17:52:21.628 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-12 17:52:21.719 [main]  store - Friend Name provided
+[INFO ] 2024-09-12 17:52:21.795 [main]  store - Friend Email Provided
+[INFO ] 2024-09-12 17:52:21.849 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-12 17:52:27.702 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-12 17:52:27.703 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND ENDS*********************
+[INFO ] 2024-09-12 17:52:27.704 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:13:24.527 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:13:27.730 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-13 13:13:46.307 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-13 13:13:47.679 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-13 13:13:50.336 [main]  store - Product number 6 selected
+[INFO ] 2024-09-13 13:13:50.338 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-13 13:13:50.736 [main]  store - Selected Size M
+[INFO ] 2024-09-13 13:13:50.910 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-13 13:13:51.126 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:13:51.939 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:13:58.281 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-13 13:13:59.813 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-13 13:14:00.838 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-13 13:14:02.432 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:14:02.432 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 13:14:02.649 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:14:02.740 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:14:04.475 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:14:06.271 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:14:06.407 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:14:06.550 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:14:08.523 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:14:09.641 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:14:10.744 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:14:11.408 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:14:18.243 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:14:18.269 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-13 13:14:19.623 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:14:19.649 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:14:19.649 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-13 13:14:19.650 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:14:20.902 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:14:27.074 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:14:28.051 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:14:28.143 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:14:28.244 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:14:29.301 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:14:32.008 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:14:32.065 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:14:32.161 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:14:32.234 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:14:32.290 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:14:38.085 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:14:38.085 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:14:38.086 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:14:38.829 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:14:45.705 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:14:45.836 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-13 13:14:45.886 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-13 13:15:09.047 [main]  store - Clicked on Log in Button
+[INFO ] 2024-09-13 13:15:29.154 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:15:29.893 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:15:35.574 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-13 13:15:35.664 [main]  store - Entered the email address
+[INFO ] 2024-09-13 13:15:36.190 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-13 13:15:56.239 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:15:57.772 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:16:03.546 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:16:04.768 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:16:04.858 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:16:04.963 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:16:06.269 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:16:09.010 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:16:09.067 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:16:09.145 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:16:09.225 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:16:09.275 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:16:13.979 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:16:13.979 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:16:13.980 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:16:15.366 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:16:16.932 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-13 13:16:21.799 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:16:21.896 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:16:22.001 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:16:23.656 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:16:26.321 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:16:26.322 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 13:16:26.595 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:16:26.681 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:16:28.290 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:16:29.461 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:30.446 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:31.394 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:32.461 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:16:37.826 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:16:37.848 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-13 13:16:39.582 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:16:39.606 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:16:39.606 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-13 13:16:39.607 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:16:40.293 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:16:45.750 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-13 13:16:46.869 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:16:46.968 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:16:47.058 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:16:48.226 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:16:51.675 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:16:51.739 [main]  store - Green Colored option
+[INFO ] 2024-09-13 13:16:51.984 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:16:52.102 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:16:53.590 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:16:54.691 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:55.741 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:57.050 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:16:57.809 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:17:04.213 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:17:04.242 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-13 13:17:05.855 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:17:05.870 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:17:05.870 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-13 13:17:05.871 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:17:06.608 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:17:14.444 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:17:15.733 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:17:15.821 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:17:15.925 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:17:17.153 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:17:17.183 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:17:18.547 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:17:18.547 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:17:18.548 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:17:19.460 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:17:19.581 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:17:19.701 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:17:20.544 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:17:20.568 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:17:22.030 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:17:22.030 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:17:22.030 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:17:22.737 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:17:28.174 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:17:29.293 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:17:29.417 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:17:29.522 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:17:30.678 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:17:33.792 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:17:33.853 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:17:33.924 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:17:33.993 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:17:34.097 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:17:39.882 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:17:39.882 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:17:39.884 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:17:40.672 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:18:07.870 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:18:08.650 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:18:14.460 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:18:15.735 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:18:15.826 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:18:15.917 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:18:17.211 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:18:20.902 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:18:20.959 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:18:21.068 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:18:21.155 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:18:21.212 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:18:26.963 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:18:26.964 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:18:26.965 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:18:27.894 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:18:34.081 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-13 13:18:35.147 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:18:35.240 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:18:35.341 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:18:36.948 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:18:40.014 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:18:40.063 [main]  store - Yellow Colored option
+[INFO ] 2024-09-13 13:18:40.296 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:18:42.289 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:18:43.417 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:18:44.430 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:18:45.344 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:18:45.867 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:18:51.089 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:18:51.113 [main]  store - *****TC_BuyProduct_2 Passed*****
+[INFO ] 2024-09-13 13:18:52.535 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:18:52.557 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:18:52.557 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-13 13:18:52.558 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:18:53.273 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:18:58.611 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-13 13:18:59.657 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:18:59.747 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:18:59.854 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:19:00.931 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:19:04.600 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:19:04.698 [main]  store - White Colored option
+[INFO ] 2024-09-13 13:19:04.991 [main]  store - L Size got selected
+[INFO ] 2024-09-13 13:19:05.131 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:19:07.129 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:19:08.570 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:19:09.539 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:19:10.660 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:19:11.314 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:19:16.849 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:19:16.867 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-13 13:19:18.623 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:19:18.646 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:19:18.646 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-13 13:19:18.647 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:29:51.122 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:29:57.804 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-13 13:30:00.935 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-13 13:30:02.745 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-13 13:30:05.110 [main]  store - Product number 6 selected
+[INFO ] 2024-09-13 13:30:05.111 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-13 13:30:05.396 [main]  store - Selected Size M
+[INFO ] 2024-09-13 13:30:05.503 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-13 13:30:05.639 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:30:06.779 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:30:09.933 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-13 13:30:30.003 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:30:31.816 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:30:37.120 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:30:38.279 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:30:38.389 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:30:38.477 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:30:39.568 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:30:42.556 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:30:42.637 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:30:42.730 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:30:42.810 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:30:42.863 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:30:48.598 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:30:48.598 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:30:48.599 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:30:50.153 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:30:56.159 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:30:56.312 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-13 13:30:56.374 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-13 13:31:18.538 [main]  store - Clicked on Log in Button
+[INFO ] 2024-09-13 13:31:38.623 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:31:40.473 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:31:45.865 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-13 13:31:46.008 [main]  store - Entered the email address
+[INFO ] 2024-09-13 13:31:46.827 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-13 13:32:06.853 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:32:08.137 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:32:13.993 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:32:15.575 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:32:15.740 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:32:15.881 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:32:17.099 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:32:21.226 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:32:21.298 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:32:21.389 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:32:21.510 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:32:21.568 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:32:27.400 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:32:27.400 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:32:27.400 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:32:29.388 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:32:34.508 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-13 13:32:35.653 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:32:35.784 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:32:35.933 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:32:37.353 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:32:40.586 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:32:40.588 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 13:32:40.964 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:32:41.190 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:32:43.714 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:32:45.816 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:32:47.868 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:32:49.571 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:32:50.331 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:32:56.961 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:32:57.028 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-13 13:32:58.626 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:32:58.651 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:32:58.651 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-13 13:32:58.651 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:33:00.484 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:33:06.047 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-13 13:33:07.264 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:33:07.414 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:33:07.577 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:33:08.732 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:33:11.795 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:33:11.859 [main]  store - Green Colored option
+[INFO ] 2024-09-13 13:33:12.123 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:33:12.242 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:33:13.892 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:33:14.968 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:33:16.040 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:33:17.136 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:33:17.752 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:33:24.420 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:33:24.450 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-13 13:33:27.274 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:33:27.301 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:33:27.302 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-13 13:33:27.302 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:33:29.113 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:33:38.692 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:33:39.743 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:33:39.889 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:33:40.000 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:33:41.326 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:33:41.377 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:33:42.791 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:33:42.791 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:33:42.793 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:33:43.952 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:33:44.110 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:33:44.290 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:33:45.345 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:33:45.387 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:33:46.592 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:33:46.592 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:33:46.592 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:33:48.281 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:33:53.727 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:33:54.785 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:33:54.895 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:33:54.988 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:33:56.082 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:33:58.715 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:33:58.798 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:33:58.915 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:33:58.977 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:33:59.039 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:34:04.886 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:34:04.886 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:34:04.886 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:34:05.724 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:34:33.651 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:34:35.446 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:34:40.399 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:34:41.938 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:34:42.034 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:34:42.182 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:34:43.228 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:34:46.431 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:34:46.500 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:34:46.610 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:34:46.697 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:34:46.803 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:34:52.550 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:34:52.552 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:34:52.552 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:34:53.351 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:34:58.449 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-13 13:34:59.581 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:34:59.684 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:34:59.773 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:35:01.068 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:35:05.456 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:35:05.538 [main]  store - Yellow Colored option
+[INFO ] 2024-09-13 13:35:05.843 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:35:09.475 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:35:12.009 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:35:13.156 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:35:14.253 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:35:14.976 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:35:21.555 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:35:21.583 [main]  store - *****TC_BuyProduct_2 Passed*****
+[INFO ] 2024-09-13 13:35:22.989 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:35:23.020 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:35:23.020 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-13 13:35:23.021 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:35:24.980 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:35:29.855 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-13 13:35:30.828 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:35:30.886 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:35:30.986 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:35:32.060 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:35:34.999 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:35:35.118 [main]  store - White Colored option
+[INFO ] 2024-09-13 13:35:35.473 [main]  store - L Size got selected
+[INFO ] 2024-09-13 13:35:35.652 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:35:36.957 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:35:38.053 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:35:39.092 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:35:39.949 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:35:40.480 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:35:46.935 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:35:46.956 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-13 13:35:48.559 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:35:48.596 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:35:48.596 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-13 13:35:48.597 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:49:02.261 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:49:05.453 [main]  store - 
+********************TEST CASE VALIDATE ADD TO CART STARTED*********************
+[INFO ] 2024-09-13 13:49:35.028 [main]  store - Clicked on sign in link
+[INFO ] 2024-09-13 13:49:36.537 [main]  store - Search for T-Shirt
+[INFO ] 2024-09-13 13:49:38.731 [main]  store - Product number 6 selected
+[INFO ] 2024-09-13 13:49:38.732 [main]  store - Selected Blue colored Tshirt
+[INFO ] 2024-09-13 13:49:39.013 [main]  store - Selected Size M
+[INFO ] 2024-09-13 13:49:39.137 [main]  store - Product successfully added to your shopping cart Confirmation Text Not Visible
+[INFO ] 2024-09-13 13:49:39.314 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:49:40.138 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:49:47.289 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN STARTED*********************
+[INFO ] 2024-09-13 13:49:49.014 [main]  store - Clicked T-Shirt Menu
+[INFO ] 2024-09-13 13:49:50.578 [main]  store - Clicked On All Special Product button 
+[INFO ] 2024-09-13 13:49:52.348 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:49:52.349 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 13:49:52.554 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:49:52.652 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:49:54.804 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:49:57.173 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:49:57.279 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:49:57.382 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:49:59.487 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:50:00.454 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:50:01.552 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:50:02.584 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:50:10.591 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:50:10.621 [main]  store - *****TC_AddToCartWithoutLogin*****
+[INFO ] 2024-09-13 13:50:13.302 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:50:13.321 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:50:13.321 [main]  store - 
+********************TEST CASE ADD TO CART WITHOUT LOGIN ENDS*********************
+[INFO ] 2024-09-13 13:50:13.321 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:50:15.056 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:50:20.437 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:50:21.822 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:50:21.911 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:50:22.016 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:50:23.573 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:50:27.137 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:50:27.196 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:50:27.269 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:50:27.352 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:50:27.408 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:50:33.466 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:50:33.466 [main]  store - 
+********************TEST CASE REFER PRODUCT 2 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:50:33.467 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:50:34.493 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:50:41.102 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:50:41.223 [main]  store - Email Id verified and registered
+[INFO ] 2024-09-13 13:50:41.271 [main]  store - Clicked Submit Button
+[INFO ] 2024-09-13 13:51:04.939 [main]  store - Clicked on Log in Button
+[INFO ] 2024-09-13 13:51:25.041 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:51:25.894 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:51:29.035 [main]  store - 
+********************TEST CASE VERIFY NEWS LETTER STARTED*********************
+[INFO ] 2024-09-13 13:51:39.293 [main]  store - Entered the email address
+[INFO ] 2024-09-13 13:51:40.452 [main]  store - Clicked on subscribed Button
+[INFO ] 2024-09-13 13:52:00.527 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:52:01.356 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:52:07.041 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:52:08.218 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:52:08.313 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:52:08.415 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:52:09.991 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:52:13.642 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:52:13.710 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:52:13.782 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:52:13.868 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:52:13.911 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:52:20.534 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:52:20.534 [main]  store - 
+********************TEST CASE REFER PRODUCT 5 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:52:20.535 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:52:21.485 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:52:26.759 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-13 13:52:28.016 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:52:28.114 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:52:28.216 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:52:29.390 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:52:32.348 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:52:32.348 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 13:52:32.596 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:52:32.709 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:52:34.518 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:52:35.609 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:52:36.867 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:52:38.585 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:52:39.838 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:52:47.287 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:52:47.312 [main]  store - *****buyProduct_4 Passed*****
+[INFO ] 2024-09-13 13:52:49.198 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:52:49.220 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:52:49.220 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-13 13:52:49.221 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:52:50.025 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:52:55.500 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-13 13:52:56.512 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:52:56.603 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:52:56.693 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:52:57.829 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:53:00.899 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 13:53:00.949 [main]  store - Green Colored option
+[INFO ] 2024-09-13 13:53:01.203 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:53:01.315 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:53:03.319 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:53:04.898 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:53:05.973 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:53:07.180 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:53:08.027 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:53:15.355 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:53:15.382 [main]  store - *****buyProduct_3 Passed*****
+[INFO ] 2024-09-13 13:53:18.693 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:53:18.717 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:53:18.717 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-13 13:53:18.717 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:53:19.539 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:53:26.404 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:53:27.489 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:53:27.591 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:53:27.712 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:53:28.863 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:53:28.893 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:53:30.092 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:53:30.092 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:53:30.093 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST STARTED*********************
+[INFO ] 2024-09-13 13:53:30.949 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:53:31.069 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:53:31.149 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:53:32.236 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:53:32.272 [main]  store - User Name matched
+[INFO ] 2024-09-13 13:53:34.205 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:53:34.205 [main]  store - 
+********************TEST CASE DATA DRIVEN TEST ENDS*********************
+[INFO ] 2024-09-13 13:53:34.206 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:53:34.894 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:53:40.428 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:53:42.496 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:53:42.608 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:53:42.720 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:53:44.285 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:53:47.542 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:53:47.602 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:53:47.673 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:53:47.758 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:53:47.804 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:53:54.035 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:53:54.035 [main]  store - 
+********************TEST CASE REFER PRODUCT 1 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:53:54.035 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:53:55.468 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:54:21.799 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:54:22.569 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:54:29.684 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 13:54:30.733 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:54:30.835 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:54:30.935 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:54:32.199 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:54:35.261 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 13:54:35.325 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 13:54:35.406 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 13:54:35.488 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 13:54:35.540 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 13:54:41.614 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 13:54:41.616 [main]  store - 
+********************TEST CASE REFER PRODUCT 6 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 13:54:41.617 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:54:43.303 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:54:48.163 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-13 13:54:49.188 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:54:49.276 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:54:49.380 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:54:51.316 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:54:54.059 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 13:54:54.156 [main]  store - Yellow Colored option
+[INFO ] 2024-09-13 13:54:54.403 [main]  store - M Size got selected
+[INFO ] 2024-09-13 13:54:55.860 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:54:56.925 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:54:57.525 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:54:58.857 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:54:59.419 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:55:06.139 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:55:06.157 [main]  store - *****TC_BuyProduct_2 Passed*****
+[INFO ] 2024-09-13 13:55:08.350 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:55:08.367 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:55:08.368 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-13 13:55:08.368 [main]  store - browser Closed
+[INFO ] 2024-09-13 13:55:09.076 [main]  store - Browser Opened
+[INFO ] 2024-09-13 13:55:14.642 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 STARTED*********************
+[INFO ] 2024-09-13 13:55:15.783 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 13:55:15.882 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 13:55:15.982 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 13:55:18.039 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 13:55:21.868 [main]  store - Product 1 selected
+[INFO ] 2024-09-13 13:55:21.985 [main]  store - White Colored option
+[INFO ] 2024-09-13 13:55:22.266 [main]  store - L Size got selected
+[INFO ] 2024-09-13 13:55:22.417 [main]  store - Added to cart
+[INFO ] 2024-09-13 13:55:25.598 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 13:55:26.925 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:55:28.442 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:55:30.869 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 13:55:31.550 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 13:55:38.347 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 13:55:38.382 [main]  store - *****buyProduct_1 Passed*****
+[INFO ] 2024-09-13 13:55:39.917 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 13:55:39.944 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 13:55:39.944 [main]  store - 
+********************TEST CASE BUY PRODUCT 1 ENDS*********************
+[INFO ] 2024-09-13 13:55:39.944 [main]  store - browser Closed
+[INFO ] 2024-09-13 14:40:51.559 [main]  store - Browser Opened
+[INFO ] 2024-09-13 14:40:56.961 [main]  store - 
+********************TEST CASE BUY PRODUCT 6 STARTED*********************
+[INFO ] 2024-09-13 14:40:58.076 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 14:40:58.186 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 14:40:58.275 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 14:40:59.399 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 14:41:02.173 [main]  store - Product 6 selected
+[INFO ] 2024-09-13 14:41:02.231 [main]  store - Blue Colored option
+[INFO ] 2024-09-13 14:41:02.564 [main]  store - M Size got selected
+[INFO ] 2024-09-13 14:41:02.688 [main]  store - Added to cart
+[INFO ] 2024-09-13 14:41:04.021 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 14:41:05.026 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:41:05.583 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:41:06.785 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:41:07.323 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 14:41:12.737 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 14:41:12.756 [main]  store - *****buyProduct_6 Passed*****
+[INFO ] 2024-09-13 14:41:14.146 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 14:41:14.169 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 14:41:14.170 [main]  store - 
+********************TEST CASE BUY PRODUCT 6 ENDS*********************
+[INFO ] 2024-09-13 14:41:14.172 [main]  store - browser Closed
+[INFO ] 2024-09-13 14:43:31.122 [main]  store - Browser Opened
+[INFO ] 2024-09-13 14:43:36.358 [main]  store - 
+********************TEST CASE BUY PRODUCT 5 STARTED*********************
+[INFO ] 2024-09-13 14:43:37.575 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 14:43:37.683 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 14:43:37.810 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 14:43:38.931 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 14:43:42.112 [main]  store - Product 5 selected
+[INFO ] 2024-09-13 14:43:42.189 [main]  store - Green Colored option
+[INFO ] 2024-09-13 14:43:42.530 [main]  store - M Size got selected
+[INFO ] 2024-09-13 14:43:42.623 [main]  store - Added to cart
+[INFO ] 2024-09-13 14:43:44.220 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 14:43:45.306 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:43:46.390 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:43:47.581 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:43:48.095 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 14:43:54.731 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 14:43:54.758 [main]  store - *****TC_BuyProduct_5 Passed*****
+[INFO ] 2024-09-13 14:43:56.462 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 14:43:56.480 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 14:43:56.480 [main]  store - 
+********************TEST CASE BUY PRODUCT 5 ENDS*********************
+[INFO ] 2024-09-13 14:43:56.485 [main]  store - browser Closed
+[INFO ] 2024-09-13 14:46:37.543 [main]  store - Browser Opened
+[INFO ] 2024-09-13 14:46:42.943 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 STARTED*********************
+[INFO ] 2024-09-13 14:46:43.984 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 14:46:44.076 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 14:46:44.180 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 14:46:45.287 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 14:46:48.142 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 14:46:48.264 [main]  store - Yellow Colored option
+[INFO ] 2024-09-13 14:46:48.600 [main]  store - M Size got selected
+[INFO ] 2024-09-13 14:46:50.181 [main]  store - Added to cart
+[INFO ] 2024-09-13 14:46:51.258 [main]  store - Clicked on Proceed to pay Button
+[INFO ] 2024-09-13 14:46:52.196 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:46:53.138 [main]  store - Clicked on Proceed to Check Out Button
+[INFO ] 2024-09-13 14:46:53.759 [main]  store - Clicked on Payment By Cheque
+[INFO ] 2024-09-13 14:47:00.246 [main]  store - Clicked on Confirm Order
+[INFO ] 2024-09-13 14:47:00.279 [main]  store - *****TC_BuyProduct_4 Passed*****
+[INFO ] 2024-09-13 14:47:01.683 [main]  store - Clicked on Sign Out
+[INFO ] 2024-09-13 14:47:01.710 [main]  store - Suggessfully Logged Out
+[INFO ] 2024-09-13 14:47:01.710 [main]  store - 
+********************TEST CASE BUY PRODUCT 4 ENDS*********************
+[INFO ] 2024-09-13 14:47:01.715 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:13:31.260 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:13:36.673 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-13 15:13:37.757 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:13:37.874 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:13:37.987 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:13:39.200 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:13:41.965 [main]  store - Product 3 selected
+[INFO ] 2024-09-13 15:13:42.427 [main]  store - S Size got selected
+[INFO ] 2024-09-13 15:13:42.428 [main]  store - Orange Colored option
+[INFO ] 2024-09-13 15:13:42.505 [main]  store - PRODUCT IS OUT OF STOCK
+[INFO ] 2024-09-13 15:13:42.505 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-13 15:13:42.512 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:24:03.577 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:24:09.782 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-13 15:24:11.193 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:24:11.318 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:24:11.467 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:24:12.761 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:24:15.468 [main]  store - Product 2 selected
+[INFO ] 2024-09-13 15:24:15.751 [main]  store - S Size got selected
+[INFO ] 2024-09-13 15:24:35.894 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:27:02.213 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:27:08.272 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 STARTED*********************
+[INFO ] 2024-09-13 15:27:09.649 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:27:09.765 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:27:09.869 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:27:11.284 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:27:14.178 [main]  store - Product 2 selected
+[INFO ] 2024-09-13 15:27:14.457 [main]  store - S Size got selected
+[INFO ] 2024-09-13 15:27:14.499 [main]  store - White Colored option
+[INFO ] 2024-09-13 15:27:14.583 [main]  store - PRODUCT IS OUT OF STOCK
+[INFO ] 2024-09-13 15:27:14.584 [main]  store - 
+********************TEST CASE BUY PRODUCT 2 ENDS*********************
+[INFO ] 2024-09-13 15:27:14.589 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:27:31.701 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:27:36.567 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 STARTED*********************
+[INFO ] 2024-09-13 15:27:37.540 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:27:37.636 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:27:37.728 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:27:38.824 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:27:41.287 [main]  store - Product 3 selected
+[INFO ] 2024-09-13 15:27:41.627 [main]  store - S Size got selected
+[INFO ] 2024-09-13 15:27:41.627 [main]  store - Orange Colored option
+[INFO ] 2024-09-13 15:27:41.710 [main]  store - PRODUCT IS OUT OF STOCK
+[INFO ] 2024-09-13 15:27:41.710 [main]  store - 
+********************TEST CASE BUY PRODUCT 3 ENDS*********************
+[INFO ] 2024-09-13 15:27:41.715 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:38:48.962 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:38:54.763 [main]  store - 
+********************TEST CASE REFER PRODUCT 4 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 15:38:55.898 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:38:56.001 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:38:56.119 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:38:57.238 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:39:00.135 [main]  store - Product 4 selected
+[INFO ] 2024-09-13 15:39:00.196 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 15:39:00.288 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 15:39:00.363 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 15:39:00.415 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 15:39:05.228 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 15:39:05.229 [main]  store - 
+********************TEST CASE REFER PRODUCT 4 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 15:39:05.234 [main]  store - browser Closed
+[INFO ] 2024-09-13 15:39:17.328 [main]  store - Browser Opened
+[INFO ] 2024-09-13 15:39:23.323 [main]  store - 
+********************TEST CASE REFER PRODUCT 3 TO FRIEND STARTED*********************
+[INFO ] 2024-09-13 15:39:24.405 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 15:39:24.499 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 15:39:24.596 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 15:39:25.721 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 15:39:28.240 [main]  store - Product 3 selected
+[INFO ] 2024-09-13 15:39:28.299 [main]  store - Clicked on SEND TO A FRIEND
+[INFO ] 2024-09-13 15:39:28.374 [main]  store - Friend Name provided
+[INFO ] 2024-09-13 15:39:28.462 [main]  store - Friend Email Provided
+[INFO ] 2024-09-13 15:39:28.501 [main]  store - Clicked on Send Button
+[INFO ] 2024-09-13 15:39:34.206 [main]  store - Successfully refer to friend
+[INFO ] 2024-09-13 15:39:34.208 [main]  store - 
+********************TEST CASE REFER PRODUCT 3 TO FRIEND ENDS*********************
+[INFO ] 2024-09-13 15:39:34.213 [main]  store - browser Closed
+[INFO ] 2024-09-13 16:31:08.662 [main]  store - Browser Opened
+[INFO ] 2024-09-13 16:31:11.826 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE STARTED*********************
+[INFO ] 2024-09-13 16:31:22.916 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 16:31:23.043 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 16:31:23.159 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 16:31:24.629 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 16:31:44.701 [main]  store - browser Closed
+[INFO ] 2024-09-13 16:35:49.147 [main]  store - Browser Opened
+[INFO ] 2024-09-13 16:35:54.690 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE STARTED*********************
+[INFO ] 2024-09-13 16:35:55.787 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 16:35:55.888 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 16:35:56.000 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 16:35:57.353 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 16:35:59.245 [main]  store - Clicked on User Order History And Details
+[INFO ] 2024-09-13 16:35:59.247 [main]  store - Entered on User Order History And Details Page
+[INFO ] 2024-09-13 16:35:59.282 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:36:00.009 [main]  store - Clicked on MY Credit Slip Option
+[INFO ] 2024-09-13 16:36:00.009 [main]  store - Entered on MY Credit Slip Page Page
+[INFO ] 2024-09-13 16:36:00.060 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:36:20.156 [main]  store - browser Closed
+[INFO ] 2024-09-13 16:40:01.193 [main]  store - Browser Opened
+[INFO ] 2024-09-13 16:40:10.587 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE STARTED*********************
+[INFO ] 2024-09-13 16:40:12.644 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 16:40:12.739 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 16:40:12.842 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 16:40:14.801 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 16:40:17.500 [main]  store - Clicked on User Order History And Details
+[INFO ] 2024-09-13 16:40:17.501 [main]  store - Entered on User Order History And Details Page
+[INFO ] 2024-09-13 16:40:17.536 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:40:19.385 [main]  store - Clicked on MY Credit Slip Option
+[INFO ] 2024-09-13 16:40:19.385 [main]  store - Entered on MY Credit Slip Page Page
+[INFO ] 2024-09-13 16:40:19.422 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:40:20.785 [main]  store - Clicked on User Current Adddress Option
+[INFO ] 2024-09-13 16:40:20.785 [main]  store - Entered on User Current Adddress Page
+[INFO ] 2024-09-13 16:40:20.803 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:40:21.931 [main]  store - Clicked on User Personal Information Option
+[INFO ] 2024-09-13 16:40:21.931 [main]  store - Entered on User Personal Information Page
+[INFO ] 2024-09-13 16:40:21.951 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:40:21.952 [main]  store - *****TC_Check_All_Optins_In_My_Profile_Page Passed*****
+[INFO ] 2024-09-13 16:40:21.952 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE ENDS*********************
+[INFO ] 2024-09-13 16:40:21.957 [main]  store - browser Closed
+[INFO ] 2024-09-13 16:41:03.979 [main]  store - Browser Opened
+[INFO ] 2024-09-13 16:41:10.823 [main]  store - 
+********************TEST CASE CHANGE PASSWORD STARTED*********************
+[INFO ] 2024-09-13 16:41:11.957 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 16:41:12.056 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 16:41:12.153 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 16:41:13.634 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 16:41:14.381 [main]  store - Old Pasword entered
+[INFO ] 2024-09-13 16:41:14.490 [main]  store - New Pasword entered
+[INFO ] 2024-09-13 16:41:14.599 [main]  store - New Password Confirmed
+[INFO ] 2024-09-13 16:41:15.229 [main]  store - Clicked on Save Button
+[INFO ] 2024-09-13 16:41:15.229 [main]  store - *****TC_Change_Password Passed*****
+[INFO ] 2024-09-13 16:41:15.229 [main]  store - 
+********************TEST CASE CHANGE PASSWORD ENDS*********************
+[INFO ] 2024-09-13 16:41:15.233 [main]  store - browser Closed
+[INFO ] 2024-09-13 16:41:47.555 [main]  store - Browser Opened
+[INFO ] 2024-09-13 16:41:52.779 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE STARTED*********************
+[INFO ] 2024-09-13 16:41:54.117 [main]  store - Clicked on Sign in
+[INFO ] 2024-09-13 16:41:54.247 [main]  store - UserEmail Entered
+[INFO ] 2024-09-13 16:41:54.353 [main]  store - UserPassword Entered
+[INFO ] 2024-09-13 16:41:55.807 [main]  store - Clicked on Login Button
+[INFO ] 2024-09-13 16:41:58.673 [main]  store - Clicked on User Order History And Details
+[INFO ] 2024-09-13 16:41:58.673 [main]  store - Entered on User Order History And Details Page
+[INFO ] 2024-09-13 16:41:58.715 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:41:59.487 [main]  store - Clicked on MY Credit Slip Option
+[INFO ] 2024-09-13 16:41:59.487 [main]  store - Entered on MY Credit Slip Page Page
+[INFO ] 2024-09-13 16:41:59.524 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:42:00.121 [main]  store - Clicked on User Current Adddress Option
+[INFO ] 2024-09-13 16:42:00.121 [main]  store - Entered on User Current Adddress Page
+[INFO ] 2024-09-13 16:42:00.161 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:42:00.880 [main]  store - Clicked on User Personal Information Option
+[INFO ] 2024-09-13 16:42:00.881 [main]  store - Entered on User Personal Information Page
+[INFO ] 2024-09-13 16:42:00.899 [main]  store - Naviagted to Profile Page
+[INFO ] 2024-09-13 16:42:00.899 [main]  store - *****TC_Check_All_Optins_In_My_Profile_Page Passed*****
+[INFO ] 2024-09-13 16:42:00.899 [main]  store - 
+********************TEST CASE CHECK ALL OPTIONS IN PROFILE PAGE ENDS*********************
+[INFO ] 2024-09-13 16:42:00.903 [main]  store - browser Closed
