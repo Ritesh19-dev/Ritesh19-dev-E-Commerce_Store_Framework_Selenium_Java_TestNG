@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      
+      <class name="com.store.testCases.TC_AddToCartWithoutLogin"/>
+      <class name="com.store.testCases.TC_myAccountPageTest"/>
+      <class name="com.store.testCases.TC_SubscribeToNewsLetter"/>
+      <class name="com.store.testCases.TC_myAccountPageTestDataDrivenTesting"/>
+      <class name="com.store.testCases.TC_Check_All_Optins_In_My_Profile_Page"/>
+      <class name="com.store.testCases.TC_BuyProduct_1"/>
+      <class name="com.store.testCases.TC_BuyProduct_2"/>
+      <class name="com.store.testCases.TC_BuyProduct_3"/>
+      <class name="com.store.testCases.TC_BuyProduct_4"/>
+      <class name="com.store.testCases.TC_BuyProduct_5"/>
+      <class name="com.store.testCases.TC_BuyProduct_6"/>
+      <class name="com.store.testCases.TC_ReferProduct_1_ToFriend"/>
+      <class name="com.store.testCases.TC_ReferProduct_2_ToFriend"/>
+      <class name="com.store.testCases.TC_ReferProduct_3_ToFriend"/>
+      <class name="com.store.testCases.TC_ReferProduct_4_ToFriend"/>
+      <class name="com.store.testCases.TC_ReferProduct_5_ToFriend"/>
+      <class name="com.store.testCases.TC_ReferProduct_6_ToFriend"/>
+      <class name="com.store.testCases.TC_Change_Password"/>
+      <class name="com.store.testCases.TC_ValidateAddToCart"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
