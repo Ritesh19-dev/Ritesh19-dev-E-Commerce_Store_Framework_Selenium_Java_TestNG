@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.store.Utilities.ExtendListerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.store.testCases.TC_myAccountPageTest">
+        <methods>
+          <include name="createAccountAndLogin"/>
+          <include name="tearDown"/>
+          <include name="setupBrowser"/>
+          <include name="userProfile"/>
+        </methods>
+      </class> <!-- com.store.testCases.TC_myAccountPageTest -->
+      <class name="com.store.testCases.ValidateAddToCart">
+        <methods>
+          <include name="tearDown"/>
+          <include name="validateCart"/>
+          <include name="setupBrowser"/>
+        </methods>
+      </class> <!-- com.store.testCases.ValidateAddToCart -->
+      <class name="com.store.testCases.TC_SubscribeToNewsLetter">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setupBrowser"/>
+          <include name="TestCaseNewsLetter"/>
+        </methods>
+      </class> <!-- com.store.testCases.TC_SubscribeToNewsLetter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
